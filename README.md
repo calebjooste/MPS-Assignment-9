@@ -1,0 +1,2 @@
+# MPS-Assignment-9
+Instructions Create a Mobile Weather App    We require an Internet enabled live Weather App.   Create a new repository in GitHub (with git ignore) Create an Account on https://openweathermap.org/ Read the instructions on how to use Open Weather and how to create an API key (FREE OPTION):  https://openweathermap.org/appid Build a Xamarin App that displays the current weather for Cape Town using live data from the Open Weather Map API :  https://openweathermap.org/api
